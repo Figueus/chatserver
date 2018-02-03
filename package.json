@@ -1,0 +1,11 @@
+{
+  "name": "friendship-bench-chat-server",
+  "version": "0.0.1",
+  "description": "The chat server for the Friendship Bench.",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mysql": "^2.15.0",
+    "node-emoji": "^1.8.1",
+    "socket.io": "^2.0.4"
+  }
+}
